@@ -3,7 +3,7 @@ Incredibly simple utility for (sort of) using viewport units with [React Native]
 
 ## Install
 ```sh
-$ npm install react-native-viewport-units --save
+$ npm install react-native-viewport-units-f --save
 ```
 
 ## Usage
